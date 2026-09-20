@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on building an FPV quadcopter.
-- 👯 I’m looking to collaborate on AppFolio Tech Projects.
+- 👯 I’m looking to collaborate on construction or property management projects! 
 - 📫 How to reach me: jorgeaespino99@gmail.com
 <!--
 **JAEspino-dev/JAEspino-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
