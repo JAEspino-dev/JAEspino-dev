@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# 📫 Connect With Me
+LinkedIn: [https://www.linkedin.com/in/jorge-aespino/]
+Portfolio: [https://jorgeespino.org/]
