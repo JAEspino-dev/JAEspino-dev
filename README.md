@@ -1,21 +1,11 @@
 # 👋 Hello, I'm Jorge!
 
-- 🔭 I’m currently working on building an FPV quadcopter.
-- 👯 I’m looking to collaborate on construction or property management projects! 
-- 📫 How to reach me: jorgeaespino99@gmail.com
-<!--
-**JAEspino-dev/JAEspino-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
+I'm a Software Engineer with a background in accounting, construction and property management. 
 
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+# What I'm Up To 🛠️
+- 🚁 I’m currently working on building an FPV quadcopter.
 
 # 📫 Connect With Me
-LinkedIn: [https://www.linkedin.com/in/jorge-aespino/]
-Portfolio: [https://jorgeespino.org/]
+LinkedIn: [linkedin.com/in/jorge-aespino/]
+Portfolio: [jorgeespino.org/]
