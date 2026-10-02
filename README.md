@@ -8,4 +8,4 @@ I'm a Software Engineer with a background in accounting, construction and proper
 
 # 📫 Connect With Me
 [LinkedIn](https://www.linkedin.com/in/jorge-aespino/)
-Portfolio: [jorgeespino.org/]
+[Portfolio](https://jorgeespino.org/)
