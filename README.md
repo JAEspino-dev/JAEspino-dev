@@ -1,4 +1,4 @@
-# 👋 Hello!
+# 👋 Hello, I'm Jorge!
 
 - 🔭 I’m currently working on building an FPV quadcopter.
 - 👯 I’m looking to collaborate on construction or property management projects! 
