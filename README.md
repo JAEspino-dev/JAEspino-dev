@@ -7,10 +7,10 @@ As a software engineer, I build tools that automate the manual processes I once 
 - 🚁 I’m building an FPV quadcopter.
 
 # 🛠️ Tool Stack 
-Languages & Front End.    
+Languages & Front End:    
 JavaScript HTML5 CSS3
 
-Back End & APIs.    
+Back End & APIs:     
 Node.js REST API
 
 # 📫 Connect With Me  
