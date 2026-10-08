@@ -7,14 +7,9 @@ As a software engineer, I build tools that automate the manual processes I once 
 - 🚁 I’m building an FPV quadcopter.
 
 # 🛠️ Tool Stack 
-Languages & Front End:    
-JavaScript  
-HTML5  
-CSS3   
-
-Back End & APIs:     
-Node.js   
-REST API   
+- Learning: Backend development with Node.js & TypeScript
+- Learning: Building APIs and server-side apps with Node.js
+- Sharpening: Node.js, TypeScript, JavaScript, HTML5, CSS3
 
 # 📫 Connect With Me  
 🌐 Portfolio: [Portfolio](https://jorgeespino.org/)
