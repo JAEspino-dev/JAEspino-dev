@@ -8,10 +8,13 @@ As a software engineer, I build tools that automate the manual processes I once 
 
 # 🛠️ Tool Stack 
 Languages & Front End:    
-JavaScript HTML5 CSS3
+JavaScript  
+HTML5  
+CSS3   
 
 Back End & APIs:     
-Node.js REST API
+Node.js   
+REST API   
 
 # 📫 Connect With Me  
 🌐 Portfolio: [Portfolio](https://jorgeespino.org/)
