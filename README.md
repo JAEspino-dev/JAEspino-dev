@@ -8,7 +8,6 @@ As a software engineer, I build tools that automate the manual processes I once 
 
 # 🛠️ Tool Stack 
 - Learning: Backend development with Node.js & TypeScript
-- Learning: Building APIs and server-side apps with Node.js
 - Sharpening: Node.js, TypeScript, JavaScript, HTML5, CSS3
 
 # 📫 Connect With Me  
