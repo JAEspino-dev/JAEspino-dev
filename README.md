@@ -15,5 +15,5 @@ As a software engineer, I build tools that automate the manual processes I once 
 
 💼 LinkedIn: [Connect With Me](https://www.linkedin.com/in/jorge-aespino/) 
 
-📅 Calendly [Book a meeting](https://calendly.com/jorgeespino/coffee-chat-10-min)
+📅 Calendly: [Book A Meeting](https://calendly.com/jorgeespino/coffee-chat-10-min)
 
