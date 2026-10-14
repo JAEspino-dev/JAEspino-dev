@@ -11,9 +11,9 @@ As a software engineer, I build tools that automate the manual processes I once 
 - Sharpening: Node.js, TypeScript, JavaScript, HTML5, CSS3
 
 # 📫 Connect With Me  
-🌐 Portfolio: [Portfolio](https://jorgeespino.org/)
+🌐 Portfolio: [Check out my website!](https://jorgeespino.org/)
 
-💼 LinkedIn: [Connect With Me](https://www.linkedin.com/in/jorge-aespino/) 
+💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/jorge-aespino/) 
 
-📅 Calendly: [Book A Meeting](https://calendly.com/jorgeespino/coffee-chat-10-min)
+📅 Calendly: [Book a meeting](https://calendly.com/jorgeespino/coffee-chat-10-min)
 
