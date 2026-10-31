@@ -5,7 +5,7 @@ As a software engineer, I build tools that automate the manual processes I once 
 
 # ⚙️ What I'm Up To! 
 - 🚁 I’m building an FPV quadcopter.
-- 🏦 I’m building a Personal Fullstack Bank Reconciliation Helper.
+- 🏦 I’m building a Fullstack Personal Bank Reconciliation Helper.
 
 # 🛠️ Tool Stack 
 - Learning: ReactJS
