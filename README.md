@@ -4,8 +4,9 @@
 As a software engineer, I build tools that automate the manual processes I once solved one client at a time. With a background in accounting, construction, and property management, I bring a practical, problem-solving mindset to everything I build.
 
 # ⚙️ What I'm Up To! 
-- 🚁 I’m building an FPV quadcopter.
 - 🏦 I’m building a Fullstack Bank Reconciliation Helper.
+- 🚁 I’m building an FPV quadcopter.
+
 
 # 🛠️ Tool Stack 
 - Learning: ReactJS
